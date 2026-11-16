@@ -1,0 +1,27 @@
+{
+  "game_title": "Example Game",
+  "progress_boundary": {
+    "label": "Chapter 4",
+    "order": 4
+  },
+  "context_items": [
+    {
+      "category": "objective",
+      "text": "Reach the Northern Gate",
+      "progress_order": 4,
+      "spoiler_sensitive": true
+    },
+    {
+      "category": "equipment",
+      "text": "Iron Sword",
+      "progress_order": 4,
+      "spoiler_sensitive": false
+    },
+    {
+      "category": "reminder",
+      "text": "Healing abilities can be upgraded at camp.",
+      "progress_order": 3,
+      "spoiler_sensitive": false
+    }
+  ]
+}
